@@ -6,7 +6,7 @@ import (
 	"github.com/qiniu/go-sdk/v7/storage"
 )
 
-const ak = "you ak is here"
+const ak = "your ak is here"
 const sk = "your sk is here"
 const bucket = "your bucket"
 
